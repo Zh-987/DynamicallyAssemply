@@ -1,0 +1,14 @@
+C:\Users\assai\source\repos\ExampleAssemlyLoad\ExampleAssemlyLoad\bin\Debug\netcoreapp3.1\ExampleAssemlyLoad.exe
+C:\Users\assai\source\repos\ExampleAssemlyLoad\ExampleAssemlyLoad\bin\Debug\netcoreapp3.1\ExampleAssemlyLoad.deps.json
+C:\Users\assai\source\repos\ExampleAssemlyLoad\ExampleAssemlyLoad\bin\Debug\netcoreapp3.1\ExampleAssemlyLoad.runtimeconfig.json
+C:\Users\assai\source\repos\ExampleAssemlyLoad\ExampleAssemlyLoad\bin\Debug\netcoreapp3.1\ExampleAssemlyLoad.runtimeconfig.dev.json
+C:\Users\assai\source\repos\ExampleAssemlyLoad\ExampleAssemlyLoad\bin\Debug\netcoreapp3.1\ExampleAssemlyLoad.dll
+C:\Users\assai\source\repos\ExampleAssemlyLoad\ExampleAssemlyLoad\bin\Debug\netcoreapp3.1\ExampleAssemlyLoad.pdb
+C:\Users\assai\source\repos\ExampleAssemlyLoad\ExampleAssemlyLoad\obj\Debug\netcoreapp3.1\ExampleAssemlyLoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assai\source\repos\ExampleAssemlyLoad\ExampleAssemlyLoad\obj\Debug\netcoreapp3.1\ExampleAssemlyLoad.AssemblyInfoInputs.cache
+C:\Users\assai\source\repos\ExampleAssemlyLoad\ExampleAssemlyLoad\obj\Debug\netcoreapp3.1\ExampleAssemlyLoad.AssemblyInfo.cs
+C:\Users\assai\source\repos\ExampleAssemlyLoad\ExampleAssemlyLoad\obj\Debug\netcoreapp3.1\ExampleAssemlyLoad.csproj.CoreCompileInputs.cache
+C:\Users\assai\source\repos\ExampleAssemlyLoad\ExampleAssemlyLoad\obj\Debug\netcoreapp3.1\ExampleAssemlyLoad.dll
+C:\Users\assai\source\repos\ExampleAssemlyLoad\ExampleAssemlyLoad\obj\Debug\netcoreapp3.1\ExampleAssemlyLoad.pdb
+C:\Users\assai\source\repos\ExampleAssemlyLoad\ExampleAssemlyLoad\obj\Debug\netcoreapp3.1\ExampleAssemlyLoad.genruntimeconfig.cache
+C:\Users\assai\source\repos\ExampleAssemlyLoad\ExampleAssemlyLoad\obj\Debug\netcoreapp3.1\ExampleAssemlyLoad.csproj.AssemblyReference.cache

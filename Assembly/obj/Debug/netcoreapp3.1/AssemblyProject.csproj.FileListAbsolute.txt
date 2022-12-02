@@ -1,0 +1,14 @@
+C:\Users\assai\source\repos\ExampleAssemlyLoad\Assembly\obj\Debug\netcoreapp3.1\AssemblyProject.csproj.AssemblyReference.cache
+C:\Users\assai\source\repos\ExampleAssemlyLoad\Assembly\obj\Debug\netcoreapp3.1\AssemblyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assai\source\repos\ExampleAssemlyLoad\Assembly\obj\Debug\netcoreapp3.1\AssemblyProject.AssemblyInfoInputs.cache
+C:\Users\assai\source\repos\ExampleAssemlyLoad\Assembly\obj\Debug\netcoreapp3.1\AssemblyProject.AssemblyInfo.cs
+C:\Users\assai\source\repos\ExampleAssemlyLoad\Assembly\obj\Debug\netcoreapp3.1\AssemblyProject.csproj.CoreCompileInputs.cache
+C:\Users\assai\source\repos\ExampleAssemlyLoad\Assembly\bin\Debug\netcoreapp3.1\AssemblyProject.exe
+C:\Users\assai\source\repos\ExampleAssemlyLoad\Assembly\bin\Debug\netcoreapp3.1\AssemblyProject.deps.json
+C:\Users\assai\source\repos\ExampleAssemlyLoad\Assembly\bin\Debug\netcoreapp3.1\AssemblyProject.runtimeconfig.json
+C:\Users\assai\source\repos\ExampleAssemlyLoad\Assembly\bin\Debug\netcoreapp3.1\AssemblyProject.runtimeconfig.dev.json
+C:\Users\assai\source\repos\ExampleAssemlyLoad\Assembly\bin\Debug\netcoreapp3.1\AssemblyProject.dll
+C:\Users\assai\source\repos\ExampleAssemlyLoad\Assembly\bin\Debug\netcoreapp3.1\AssemblyProject.pdb
+C:\Users\assai\source\repos\ExampleAssemlyLoad\Assembly\obj\Debug\netcoreapp3.1\AssemblyProject.dll
+C:\Users\assai\source\repos\ExampleAssemlyLoad\Assembly\obj\Debug\netcoreapp3.1\AssemblyProject.pdb
+C:\Users\assai\source\repos\ExampleAssemlyLoad\Assembly\obj\Debug\netcoreapp3.1\AssemblyProject.genruntimeconfig.cache
